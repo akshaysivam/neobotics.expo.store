@@ -95,3 +95,9 @@ padding-left: 0;
     width: 50%;
   }
 }
+
+@media(max-width:929px) {
+  .bg-box img{
+    width: auto;
+  }
+}
